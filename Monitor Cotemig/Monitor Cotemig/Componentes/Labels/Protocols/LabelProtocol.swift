@@ -1,0 +1,3 @@
+protocol LabelProtocol {
+    func configureLabel()
+}
